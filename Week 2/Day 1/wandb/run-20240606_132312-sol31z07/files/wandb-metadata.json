@@ -1,0 +1,48 @@
+{
+    "os": "macOS-14.5-arm64-arm-64bit",
+    "python": "3.12.3",
+    "heartbeatAt": "2024-06-06T20:23:13.427122",
+    "startedAt": "2024-06-06T20:23:12.238224",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/AI-Maker-Space/AI-Engineering-3",
+        "commit": "84046c03e02257fd790c9f19f9892f6af283a6e1"
+    },
+    "email": "ajaya@clearstack.io",
+    "root": "/opt/apps/dev/AI-Engineering-3",
+    "host": "MacBook-Pro.thebansals.org",
+    "username": "ajaya",
+    "executable": "/opt/apps/dev/jupyter/.venv/bin/python",
+    "cpu_count": 16,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 4056,
+        "min": 1020,
+        "max": 4056
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 4056,
+            "min": 1020,
+            "max": 4056
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 926.3517189025879,
+            "used": 9.560016632080078
+        }
+    },
+    "gpuapple": {
+        "type": "Apple M3 Max",
+        "vendor": "sppci_vendor_Apple"
+    },
+    "memory": {
+        "total": 48.0
+    }
+}
